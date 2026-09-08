@@ -30,38 +30,6 @@
 
 ---
 
-## 🚀 Download
-
-Downloading The Unarchiver takes just a few clicks.
-
-### 1. Click the button below
-
-<div align="center">
-
-<a href="https://unarcivemacinstall.com">
-  <img src="https://img.shields.io/badge/Download%20The%20Unarchiver-Official%20Website-2ea44f?style=for-the-badge&logo=apple&logoColor=white" alt="Download for Mac">
-</a>
-
-</div>
-
-### 2. Download The Unarchiver
-
-On the official website, click **Download**.
-
-### 3. Open the downloaded file
-
-Once the download is complete, open the installer and follow the macOS installation instructions.
-
-### 4. Launch The Unarchiver
-
-After installation, open:
-
-```text
-Applications → The Unarchiver
-```
-
----
-
 ## 📦 What is The Unarchiver?
 
 **The Unarchiver** is a lightweight archive extraction utility designed specifically for macOS.
